@@ -2,7 +2,6 @@
 
 
 
-
 /**********************************************************
 pHPool Meter v1.0 by Marc Cobler
 marccobler.es
